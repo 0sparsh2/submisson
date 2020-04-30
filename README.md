@@ -1,13 +1,14 @@
-# Coursera-WebDev-JHU-Assignments
+# Coursera Assignments Submission!
 
-###HTML, CSS, JavaScript for Web Developers
-####Johns Hopkins University
-#####Coursera
-<hr>
-This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera. <br>
+
+###Coursera's front end by John Hopkins University
+
 
 <hr>
-<b>Assignment Links:</b> <br>
+This repository consists of the questions and later solutions to the coursera assignmnet 1,2,3.<br>
+
+<hr>
+<b>Links towards Assignment questions :</b> <br>
 - [Module 2 Assignment](http://goo.gl/4Blt4G) <br>
 - [Module 3 Assignment](http://bit.ly/1mKZzJ5) <br>
 - [Module 4 Assignment](http://bit.ly/21StgWz) <br>
@@ -15,8 +16,11 @@ This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments
 Mockup illustrations are present in the Assignment documents.
 <br>
 
-<b>Solution Links:</b> <br>
-- [Module 2 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-2-solution/index.html) <br>
-- [Module 3 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-3-solution/index.html) <br>
-- [Module 4 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-4-solution/index.html) <br>
-- [Module 5 Solution](http://faheemzunjani.github.io/Coursera-WebDev-JHU-Assignments/module-5-solution/index.html) <br>
+<p>And given below are the solutions</p>
+
+
+<b>Solution:</b> <br>
+- [Module 2 Solution](https://0sparsh2.github.io/submisson/module-2-solution/index.html) <br>
+- [Module 3 Solution](http://0sparsh2.github.io/submisson/module-3-solution/index.html) <br>
+- [Module 4 Solution](http://0sparsh2.github.io/submisson/module-4-solution/index.html) <br>
+- [Module 5 Solution](http://0sparsh2.github.io/submisson/module-5-solution/index.html) <br>
